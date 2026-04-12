@@ -1,7 +1,7 @@
 # Predicción de Resultados de Fútbol
 
 <p align="center">
-  <img src="docs/Flujo-de-Trabajo.jpg" alt="Diagrama del flujo de trabajo del proyecto" width="950">
+  <img src="docs/Flujo de trabajo - Proyecto.jpg" alt="Diagrama del flujo de trabajo del proyecto" width="950">
 </p>
 
 ## Descripción
